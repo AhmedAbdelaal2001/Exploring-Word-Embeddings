@@ -6,7 +6,10 @@ was constructed from the corpus, and truncated singular value decomposition was 
 then plotted on a scatter diagram for comparison with GloVe vectors.  
 ## Prediciton Based Word Vectors:
 The second folder applies truncated SVD to GloVe word vectors (dimension: 200) to obtain 2 dimensional versions, which are then plotted and compared with the previous ones
-as shown below. The vectors are then evaluated in terms of their capabilities to model analogies, polysemes, synonyms, antonyms, and bias. Results can be seen in the notebooks.  
-![image](https://user-images.githubusercontent.com/101427765/217091645-c2baf817-c2bc-4ed9-8986-e05c6f286b0c.png)    ![image](https://user-images.githubusercontent.com/101427765/217091750-b3ab2d72-2368-4c6d-b38c-3b4bd515b490.png)
+as shown below. The vectors are then evaluated in terms of their capabilities to model analogies, polysemes, synonyms, antonyms, and bias. Results can be seen in the notebooks.
+### Embeddings obtained from the co-occurence matrix:
+![image](https://user-images.githubusercontent.com/101427765/217091645-c2baf817-c2bc-4ed9-8986-e05c6f286b0c.png)   
+### GloVe Embeddings:
+![image](https://user-images.githubusercontent.com/101427765/217091750-b3ab2d72-2368-4c6d-b38c-3b4bd515b490.png)
 
 
