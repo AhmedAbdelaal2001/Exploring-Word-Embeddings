@@ -6,4 +6,6 @@ was constructed from the corpus, and truncated singular value decomposition was 
 then plotted on a scatter diagram for comparison with GloVe vectors.  
 ## Prediciton Based Word Vectors:
 The second folder applies truncated SVD to GloVe word vectors (dimension: 200) to obtain 2 dimensional versions, which are then plotted and compared with the previous ones
-as shown below. The vectors are then evaluated in terms of their capabilities to model analogies, polysemes, synonyms, antonyms, and bias. Results can be seen in the notebooks.
+as shown below. The vectors are then evaluated in terms of their capabilities to model analogies, polysemes, synonyms, antonyms, and bias. Results can be seen in the notebooks.  
+![image](https://user-images.githubusercontent.com/101427765/217091645-c2baf817-c2bc-4ed9-8986-e05c6f286b0c.png)
+
