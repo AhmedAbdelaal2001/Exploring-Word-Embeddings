@@ -11,5 +11,8 @@ as shown below. The vectors are then evaluated in terms of their capabilities to
 ![image](https://user-images.githubusercontent.com/101427765/217091645-c2baf817-c2bc-4ed9-8986-e05c6f286b0c.png)   
 ### GloVe Embeddings:
 ![image](https://user-images.githubusercontent.com/101427765/217091750-b3ab2d72-2368-4c6d-b38c-3b4bd515b490.png)
+### GloVe Analogies:
+![image](https://user-images.githubusercontent.com/101427765/217092113-f0517253-3956-422f-9e88-f339648ebf91.png)
+
 
 
